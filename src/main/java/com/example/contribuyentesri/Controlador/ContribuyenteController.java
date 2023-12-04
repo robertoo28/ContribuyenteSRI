@@ -21,6 +21,7 @@ public class ContribuyenteController {
             return p;
         } catch (Exception e ){
             System.out.println("Error");
+
             return false;
         }
     }
